@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Susmi 🌷✨</h1>
-<h3 align="center">Future Full Stack Dev 💻 | Lover of Pink & Python 💖</h3>
 
 <p align="center">
   🎓 Computer Science Student at UGA <br/>
@@ -22,9 +21,8 @@
 
 ---
 
-### 📊 GitHub Progress (More to Come!)
+### 📊 GitHub Progress
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Susmi-Kharel&theme=rose_pine&hide_border=true" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmi-Kharel&layout=compact&theme=rose_pine" width="335"/>
 </p>
 
