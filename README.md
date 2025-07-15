@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Susmi 🌷✨</h1>
 
 <p align="center">
-  🎓 Computer Science Student at UGA <br/>
+  🎓 🎓 Computer Science Student at The University of Georgia <br/>
   📅 Graduating December 2025 <br/>
   🧠 Currently learning Python & Full Stack Web Development <br/>
   🚀 Building projects and growing my GitHub portfolio
