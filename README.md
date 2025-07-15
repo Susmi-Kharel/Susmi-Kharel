@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Susmi 👋</h1>
+<h1 align="center">Hi, I'm Susmi 🌷✨
+</h1>
 
 <p align="center">
   🎓 Computer Science Student at UGA <br/>
