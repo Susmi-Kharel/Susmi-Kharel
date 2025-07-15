@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Susmi 🌷✨
-</h1>
+<h1 align="center">Hi, I'm Susmi 🌷✨</h1>
+<h3 align="center">Future Full Stack Dev 💻 | Lover of Pink & Python 💖</h3>
 
 <p align="center">
   🎓 Computer Science Student at UGA <br/>
@@ -10,8 +10,8 @@
 
 ---
 
-### 🛠️ Tech I'm Learning and Using:
-<p align="left">
+### 💖 Tech I’m Exploring & Using:
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
@@ -22,7 +22,7 @@
 
 ---
 
-### 📈 GitHub Stats (Just Getting Started!)
+### 📊 GitHub Progress (More to Come!)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Susmi-Kharel&theme=rose_pine&hide_border=true" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmi-Kharel&layout=compact&theme=rose_pine" width="335"/>
@@ -39,4 +39,8 @@
 ---
 
 ### 📬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/susmitakharel/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/susmitakharel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
