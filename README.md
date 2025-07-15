@@ -24,8 +24,8 @@
 
 ### 📈 GitHub Stats (Just Getting Started!)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Susmi-Kharel&show_icons=true&theme=rose_pine" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmi-Kharel&layout=compact&theme=tokyonight" width="335"/>
+  <img src="https://streak-stats.demolab.com?user=Susmi-Kharel&theme=rose_pine&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmi-Kharel&layout=compact&theme=rose_pine" width="335"/>
 </p>
 
 ---
